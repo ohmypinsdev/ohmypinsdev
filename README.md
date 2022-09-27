@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ohmypinsdev
+- 👀 I’m interested in self-hosted apps
+- 🌱 I’m currently learning how to convert apps to pins
+- 💞️ I’m looking to collaborate on new ~apps~ pins
+- 📫 How to reach me ...
